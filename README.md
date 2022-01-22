@@ -36,7 +36,7 @@ Diane -> Manager, does not get scheduled breaks
 	6. Enter starting time of shift, followed by comma
 	7. Enter end time of shift, followed by comma
 	8. If associate is currently training, add 'y'
-	9. If other shifts exist for the associate within the week, add comma and repeat steps 4, and 6-9 until finished
+	9. If other shifts exist for the associate within the week, add comma and repeat steps iv, and vi-ix until finished
 	10. When completely finished, press q to quit and generate grids for week
 
 See files for examples of input/output
