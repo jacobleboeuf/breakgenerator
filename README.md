@@ -40,4 +40,6 @@ Diane -> Manager, does not get scheduled breaks
 	10. When completely finished, press q to quit and generate grids for week
 
 See files for examples of input/output
+	- Input file: w-e7.10.txt
+	- Output files: 7-10-1sungrids.txt -> 7-10-7satgrids.txt
 	
